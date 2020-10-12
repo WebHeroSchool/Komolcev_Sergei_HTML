@@ -1,0 +1,22 @@
+.Logo-text {
+  font-family: 'PT Serif', serif;
+  font-weight: bold;
+}
+
+.nav_link {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 500;
+}
+
+.title {
+  font-family: 'PT Serif', serif;
+}
+
+.text {
+  font-family: 'Roboto', sans-serif;
+}
+
+.button {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 500;
+}
